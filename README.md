@@ -1,31 +1,21 @@
-# Willkommen auf meinem GitHub-Profil! 👋
+# Welcome to my GitHub Profile! 👋
 
-Hallo, ich bin **Tim** (auch bekannt als **DEV-Skyz**) – ein Auszubildender zum **Fachinformatiker**. Ich interessiere mich besonders für **Discord Bots** und **Cybersecurity**. Hier findest du eine Sammlung meiner Projekte, Open-Source-Beiträge und Experimentierarbeiten.
+Hi, I'm **Tim** (also known as **DEV-Skyz**) – an apprentice **IT specialist**. I'm particularly interested in **Discord Bots** and **Cybersecurity**. Here, you can find a collection of my projects, open-source contributions, and experiments.
 
-## 🚀 Über mich
-Ich bin momentan in der Ausbildung zum Fachinformatiker und beschäftige mich leidenschaftlich mit der Entwicklung von **Discord Bots** und dem Bereich **Cybersecurity**. 
+## 🚀 About Me
+I am currently training as an IT specialist and have a strong passion for developing **Discord Bots** and working in the field of **Cybersecurity**.
 
-- 🔭 Aktuell arbeite ich an verschiedenen Projekten rund um **Discord Bots** und Sicherheitsanwendungen.
-- 🌱 Ich lerne gerade mehr über **Sicherheitslücken und Schutzmechanismen**.
-- 💡 Ich bin ständig auf der Suche nach neuen Herausforderungen und Projekten, die mich weiterbringen.
+- 🔭 Currently, I’m working on various projects related to **Discord Bots** and security applications.
+- 🌱 I'm learning more about **security vulnerabilities and protection mechanisms**.
+- 💡 I'm always looking for new challenges and projects that help me grow.
 
-## 📈 GitHub-Statistiken
+## 📈 GitHub Stats
 
-![GitHub-Statistik](https://github-readme-stats.vercel.app/api?username=DEV-Skyz&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEV-Skyz&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-## 🛠️ Meine Tools und Technologien
+## 🛠️ My Tools and Technologies
 
-- **Programmiersprachen**: JavaScript, Python, CSS, HTML
+- **Programming Languages**: JavaScript, Python, CSS, HTML
 - **Tools**: Git, Visual Studio Code
-- **Sonstiges**: Discord API, Node.js
-
-## 📂 Meine wichtigsten Projekte
-
-### [Discord Bot 1](https://github.com/DEV-Skyz/discord-bot1)
-Dies ist mein erster Discord Bot, der [kurze Beschreibung, z.B. Nachrichten verwaltet, Nutzer begrüßt, etc.].  
-**Technologien**: JavaScript, Discord.js
-
-### [Projekt 2 Name](https://github.com/DEV-Skyz/projekt2)
-Kurze Beschreibung des Projekts, z.B. ein Cybersecurity-Tool oder ein anderes Projekt, das du gerade entwickelst.  
-**Technologien**: Python, CSS, HTML
+- **Others**: Discord API, Node.js
 
