@@ -1,42 +1,31 @@
 # Willkommen auf meinem GitHub-Profil! 👋
 
-Hallo, ich bin **[Dein Name]** – ein leidenschaftlicher **[Entwickler/Software Engineer]** mit Interesse an **[Technologien, z.B. Webentwicklung, maschinelles Lernen, etc.]**. Hier findest du eine Sammlung meiner Projekte, Open-Source-Beiträge und interessanten Experimenten.
+Hallo, ich bin **Tim** (auch bekannt als **DEV-Skyz**) – ein Auszubildender zum **Fachinformatiker**. Ich interessiere mich besonders für **Discord Bots** und **Cybersecurity**. Hier findest du eine Sammlung meiner Projekte, Open-Source-Beiträge und Experimentierarbeiten.
 
 ## 🚀 Über mich
-Ich arbeite hauptsächlich mit **[Programmiersprachen und Technologien, z.B. JavaScript, Python, React, etc.]**. Meine Leidenschaft liegt darin, Probleme zu lösen und dabei neue Technologien zu lernen.
+Ich bin momentan in der Ausbildung zum Fachinformatiker und beschäftige mich leidenschaftlich mit der Entwicklung von **Discord Bots** und dem Bereich **Cybersecurity**. 
 
-- 🔭 Aktuell arbeite ich an [Projektname] – eine Anwendung, die [kurze Beschreibung des Projekts].
-- 🌱 Ich lerne gerade [z.B. eine neue Technologie oder ein Thema, das du studierst].
-- 👯 Ich bin immer auf der Suche nach interessanten **Open-Source-Projekten**, an denen ich mitwirken kann.
+- 🔭 Aktuell arbeite ich an verschiedenen Projekten rund um **Discord Bots** und Sicherheitsanwendungen.
+- 🌱 Ich lerne gerade mehr über **Sicherheitslücken und Schutzmechanismen**.
+- 💡 Ich bin ständig auf der Suche nach neuen Herausforderungen und Projekten, die mich weiterbringen.
 
 ## 📈 GitHub-Statistiken
 
-![GitHub-Statistik](https://github-readme-stats.vercel.app/api?username=deinBenutzername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub-Statistik](https://github-readme-stats.vercel.app/api?username=DEV-Skyz&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 🛠️ Meine Tools und Technologien
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
-- **Backend**: Node.js, Express, Django
-- **Datenbanken**: MongoDB, PostgreSQL, MySQL
-- **Tools**: Git, Docker, Kubernetes
+- **Programmiersprachen**: JavaScript, Python, CSS, HTML
+- **Tools**: Git, Visual Studio Code
+- **Sonstiges**: Discord API, Node.js
 
 ## 📂 Meine wichtigsten Projekte
 
-### [Projekt 1 Name](https://github.com/deinBenutzername/projekt1)
-Kurze Beschreibung des Projekts. Zeigt, was es tut und warum es cool ist.  
-**Technologien**: [Technologie 1], [Technologie 2]
+### [Discord Bot 1](https://github.com/DEV-Skyz/discord-bot1)
+Dies ist mein erster Discord Bot, der [kurze Beschreibung, z.B. Nachrichten verwaltet, Nutzer begrüßt, etc.].  
+**Technologien**: JavaScript, Discord.js
 
-### [Projekt 2 Name](https://github.com/deinBenutzername/projekt2)
-Kurze Beschreibung des Projekts. Zeigt, was es tut und warum es cool ist.  
-**Technologien**: [Technologie 1], [Technologie 2]
+### [Projekt 2 Name](https://github.com/DEV-Skyz/projekt2)
+Kurze Beschreibung des Projekts, z.B. ein Cybersecurity-Tool oder ein anderes Projekt, das du gerade entwickelst.  
+**Technologien**: Python, CSS, HTML
 
-## 📬 Kontakt
-
-- ✉️ E-Mail: [deineEmail@example.com](mailto:deineEmail@example.com)
-- 🌍 Website: [deineWebsite.com](https://deineWebsite.com)
-- 💼 LinkedIn: [LinkedIn Profil](https://www.linkedin.com/in/deinProfil)
-
-## 🔗 Weitere Links
-
-- [Mein Portfolio](https://deinePortfolioSeite.com)
-- [Mein Blog](https://deinBlog.com)
