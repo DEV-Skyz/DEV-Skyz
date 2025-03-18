@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! 👋
 
-Hi, I'm **Tim** (also known as **DEV-Skyz**) – an apprentice **IT specialist**. I'm particularly interested in **Discord Bots** and **Cybersecurity**. Here, you can find a collection of my projects, open-source contributions, and experiments.
+Hi, I'm **Tim** (**DEV-Skyz**) – an apprentice **IT specialist**. I'm particularly interested in **Discord Bots** and **Cybersecurity**. Here, you can find a collection of my projects, open-source contributions, and experiments.
 
 ## 🚀 About Me
 I am currently training as an IT specialist and have a strong passion for developing **Discord Bots** and working in the field of **Cybersecurity**.
