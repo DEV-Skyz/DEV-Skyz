@@ -53,11 +53,7 @@ IT apprentice by day, **ethical hacker** and **Discord bot developer** by night.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)  
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord)](https://discord.com/users/yourid)  
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord)](https://discord.com/users/911588324462981130)  
+ 
 
-📫 **Email**: your.email@example.com  
 
----
-
-### ❤️ **Support My Work**  
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee)](https://buymeacoffee.com/yourprofile)  
