@@ -1,22 +1,26 @@
-# Welcome to my GitHub Profile! 👋
+# Welcome to my GitHub Profile! 👋  
 
-Hi, I'm **Tim** (**DEV-Skyz**) – an apprentice **IT specialist**. I'm particularly interested in **Discord Bots**, **Cybersecurity**, and **Ethical Hacking**. Here, you can find a collection of my projects, open-source contributions, and experiments.
+Hi, I'm **Tim** (**DEV-Skyz**) – an apprentice **IT specialist** passionate about **Discord Bots**, **Cybersecurity**, and **Ethical Hacking**.  
 
-## 🚀 About Me
-I am currently training as an IT specialist and have a strong passion for developing **Discord Bots**, working in the field of **Cybersecurity**, and exploring the world of **Ethical Hacking**.
+![Banner](https://github.com/DEV-Skyz/DEV-Skyz/blob/main/assets/banner.png)  
 
-- 🔭 Currently, I’m working on various projects related to **Discord Bots** and security applications.
-- 🌱 I'm learning more about **security vulnerabilities, protection mechanisms**, and **Ethical Hacking** techniques.
-- 💡 I'm always looking for new challenges and projects that help me grow.
+## 🚀 About Me  
+- 🔭 Working on **Discord Bots** & **Security Tools**.  
+- 🌱 Learning **Ethical Hacking** & **Vulnerability Research**.  
+- 💬 Ask me about **JavaScript, Python, or Cybersecurity**.  
 
-## 📈 GitHub Stats
+## 🌟 Highlighted Projects  
+- [Discord Bot Template](https://github.com/DEV-Skyz/discord-bot) – A modular bot for developers.  
+- [PenTest Toolkit](https://github.com/DEV-Skyz/pentest-tools) – Handy scripts for security audits.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEV-Skyz&show_icons=true&hide_title=true&count_private=true&hide=prs)
+## 🛠️ Tech Stack  
+**Languages**: JavaScript, Python, HTML/CSS  
+**Tools**: Git, VS Code, Node.js, Wireshark  
 
-## 🛠️ My Tools and Technologies
+## 📊 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=DEV-Skyz&show_icons=true&hide_title=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Skyz&layout=compact)  
 
-- **Programming Languages**: JavaScript, Python, CSS, HTML
-- **Tools**: Git, Visual Studio Code
-- **Others**: Discord API, Node.js
-
-
+## 📫 Connect  
+- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- Discord: DEV-Skyz#1234  
