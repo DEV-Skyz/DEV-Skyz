@@ -15,7 +15,7 @@
     </td>
     <td width="33%" align="center">
       <strong>Ethical Hacking</strong><br>
-      <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" width="40" height="40"/>
+      <img src="https://github.com/lukas-w/font-logos/blob/master/vectors/kali-linux.svg" width="40" height="40"/>
     </td>
     <td width="33%" align="center">
       <strong>Security Research</strong><br>
@@ -58,11 +58,12 @@
 ---
 
 ## 📊 **GitHub Analytics**  
-<div align="center">
-  
-![Metrics](https://metrics.lecoq.io/DEV-Skyz?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FBerlin)  
-
-</div>
+ 
+<div align="center">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEV-Skyz&show_icons=true&theme=radical&hide_border=true" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Skyz&layout=compact&theme=radical&hide_border=true" />  
+  <img height="180em" src="https://streak-stats.demolab.com/?user=DEV-Skyz&theme=radical&hide_border=true" />  
+</div> 
 
 ---
 
@@ -74,10 +75,8 @@
 ---
 
 ## 📬 **Let's Collaborate**  
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://discord.com/users/yourid"><img src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="Discord"/></a>
+<p align="center"
+  <a href="https://discord.com/users/911588324462981130"><img src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="Discord"/></a>
 </p>
 
 <div align="center">
