@@ -1,6 +1,6 @@
 # 👨‍💻 Tim (DEV-Skyz) | IT-Apprentice + Cybersecurity Enthusiast  
+[![GitHub Banner](https://github.com/DEV-Skyz/DEV-Skyz/blob/main/assets/banner.png)](https://github.com/DEV-Skyz)  
 
-[![GitHub Banner]([https://github.com/DEV-Skyz/DEV-Skyz/blob/main/assets/banner.png](https://cdn.discordapp.com/attachments/1345771942220791933/1354707593322565642/Banner.gif?ex=67e64543&is=67e4f3c3&hm=4d0434aeb7fec362519a994d131c787a9b383dfb3de9482763e8271201342304&))]([https://github.com/DEV-Skyz](https://cdn.discordapp.com/attachments/1345771942220791933/1354707593322565642/Banner.gif?ex=67e64543&is=67e4f3c3&hm=4d0434aeb7fec362519a994d131c787a9b383dfb3de9482763e8271201342304&))  
 *"Turning code into solutions, one vulnerability at a time."*  
 
 ---
