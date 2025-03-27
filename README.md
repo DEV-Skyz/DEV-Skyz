@@ -1,5 +1,4 @@
-# 👨‍💻 Tim (DEV-Skyz) | IT-Apprentice + Cybersecurity Enthusiast  
-[![GitHub Banner](https://github.com/DEV-Skyz/DEV-Skyz/blob/main/assets/banner.png)](https://github.com/DEV-Skyz)  
+# 👨‍💻 Tim (DEV-Skyz) | IT-Apprentice + Cybersecurity Enthusiast   
 
 *"Turning code into solutions, one vulnerability at a time."*  
 
