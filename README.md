@@ -65,12 +65,6 @@
   <img height="180em" src="https://streak-stats.demolab.com/?user=DEV-Skyz&theme=radical&hide_border=true" />  
 </div> 
 
----
-
-## 🏆 **Achievements**  
-- 🥇 **TryHackMe Top 5%**  
-- 🏅 **HackTheBox Tier 2 Hacker**  
-- 📜 **eJPT Certified**  
 
 ---
 
