@@ -11,7 +11,7 @@
 *Transforming vulnerabilities into secure solutions*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=cb404d)](https://github.com/DEV-Skyz)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/911588324462981130)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/users/911588324462981130](https://discord.gg/8TtTn2gTd6))
 
 </div>
 
@@ -166,7 +166,7 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/911588324462981130)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/users/911588324462981130](https://discord.gg/8TtTn2gTd6))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=cb404d)](https://github.com/DEV-Skyz)
 
 </div>
