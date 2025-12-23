@@ -21,34 +21,74 @@
 
 <div align="center">
 
-```diff
-+ ╔═══════════════════════════════════════════════════╗
-+ ║                                                   ║
-+ ║   🔐 Security-Focused Developer                  ║
-+ ║   🛠️  IT Specialist Apprentice                   ║
-+ ║   💻 Building secure solutions                   ║
-+ ║   🎯 Passionate about ethical hacking            ║
-+ ║                                                   ║
-+ ║   📍 Germany | 🌍 Remote Available               ║
-+ ║                                                   ║
-+ ╚═══════════════════════════════════════════════════╝
+```
+    ╔═══════════════════════════════════════════════╗
+    ║                                               ║
+    ║   ██████╗ ███████╗██╗   ██╗                   ║
+    ║   ██╔══██╗██╔════╝██║   ██║                   ║
+    ║   ██║  ██║█████╗  ██║   ██║                   ║
+    ║   ██║  ██║██╔══╝  ╚██╗ ██╔╝                   ║
+    ║   ██████╔╝███████╗ ╚████╔╝                    ║
+    ║   ╚═════╝ ╚══════╝  ╚═══╝                     ║
+    ║                                               ║
+    ║   ███████╗██╗  ██╗██╗   ██╗███████╗          ║
+    ║   ██╔════╝╚██╗██╔╝╚██╗ ██╔╝██╔════╝          ║
+    ║   ███████╗ ╚███╔╝  ╚████╔╝ ███████╗          ║
+    ║   ╚════██║ ██╔██╗   ╚██╔╝  ╚════██║          ║
+    ║   ███████║██╔╝ ██╗   ██║   ███████║          ║
+    ║   ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝          ║
+    ║                                               ║
+    ╚═══════════════════════════════════════════════╝
 ```
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=CB404D&center=true&vCenter=true&width=600&lines=Exploring+vulnerabilities+%F0%9F%94%92;Building+secure+solutions+%E2%9C%85;Learning+every+day+%F0%9F%93%9A;Code+with+purpose+%F0%9F%92%BB" alt="Typing SVG" />
+<table>
+<tr>
+<td width="50%">
+
+### <span style="color: #cb404d;">👨‍💻 Who I Am</span>
+
+<span style="color: #6e6e6e;">
+• **Name:** Tim  
+• **Username:** DEV-Skyz / Anyxx DEV  
+• **Role:** IT Specialist Apprentice  
+• **Focus:** Security & System Tools  
+• **Location:** 🇩🇪 Germany  
+</span>
+
+</td>
+<td width="50%">
+
+### <span style="color: #cb404d;">🎯 What I Do</span>
+
+<span style="color: #6e6e6e;">
+• 🔐 Security Research  
+• 🛠️ Tool Development  
+• 💻 System Optimization  
+• 📚 Continuous Learning  
+• 🎯 Building EXM  
+</span>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <div align="center">
 
-### <span style="color: #6e6e6e;">💡 I'm passionate about creating tools that make systems more secure and efficient</span>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=2000&color=CB404D&center=true&vCenter=true&width=800&lines=Exploring+vulnerabilities+%F0%9F%94%92;Building+secure+solutions+%E2%9C%85;Learning+every+day+%F0%9F%93%9A;Code+with+purpose+%F0%9F%92%BB" alt="Typing SVG" />
 
-### <span style="color: #6e6e6e;">🔒 Currently working on Windows security tools and system management utilities</span>
+</div>
 
-### <span style="color: #6e6e6e;">🚀 Always learning new security techniques and development practices</span>
+<div align="center">
+
+<span style="color: #6e6e6e;">💡 **Passionate about creating tools that make systems more secure and efficient**</span>  
+<span style="color: #6e6e6e;">🔒 **Currently working on Windows security tools and system management utilities**</span>  
+<span style="color: #6e6e6e;">🚀 **Always learning new security techniques and development practices**</span>
 
 </div>
 
