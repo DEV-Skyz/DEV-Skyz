@@ -19,33 +19,38 @@
 
 ## <span style="color: #cb404d;">🎯 About Me</span>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Tim"
-        self.username = "DEV-Skyz"
-        self.role = "IT Specialist Apprentice"
-        self.focus = ["Security", "Ethical Hacking", "System Tools"]
-        self.location = "Germany"
-    
-    def current_projects(self):
-        return [
-            "EXM - Windows Utility Tool",
-            "Discord Security Bots",
-            "Network Monitoring Tools",
-            "CTF & Pentesting Scripts"
-        ]
-    
-    def skills(self):
-        return {
-            "Languages": ["Python", "JavaScript", "PowerShell", "Bash"],
-            "Security": ["Penetration Testing", "Vulnerability Assessment", "Network Security"],
-            "Tools": ["Burp Suite", "Wireshark", "Metasploit", "Kali Linux"]
-        }
-    
-    def motto(self):
-        return "Code with purpose, secure by design."
+<div align="center">
+
+```diff
++ ╔═══════════════════════════════════════════════════╗
++ ║                                                   ║
++ ║   🔐 Security-Focused Developer                  ║
++ ║   🛠️  IT Specialist Apprentice                   ║
++ ║   💻 Building secure solutions                   ║
++ ║   🎯 Passionate about ethical hacking            ║
++ ║                                                   ║
++ ║   📍 Germany | 🌍 Remote Available               ║
++ ║                                                   ║
++ ╚═══════════════════════════════════════════════════╝
 ```
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=CB404D&center=true&vCenter=true&width=600&lines=Exploring+vulnerabilities+%F0%9F%94%92;Building+secure+solutions+%E2%9C%85;Learning+every+day+%F0%9F%93%9A;Code+with+purpose+%F0%9F%92%BB" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+### <span style="color: #6e6e6e;">💡 I'm passionate about creating tools that make systems more secure and efficient</span>
+
+### <span style="color: #6e6e6e;">🔒 Currently working on Windows security tools and system management utilities</span>
+
+### <span style="color: #6e6e6e;">🚀 Always learning new security techniques and development practices</span>
+
+</div>
 
 ---
 
@@ -56,9 +61,6 @@ class Developer:
 | <span style="color: #cb404d;">Project</span> | <span style="color: #cb404d;">Description</span> | <span style="color: #cb404d;">Tech Stack</span> |
 |:---:|:---:|:---:|
 | <span style="color: #cb404d;">⚡ [**EXM**](https://github.com/DEV-Skyz/exm)</span> | Complete Windows system management & customization tool | PowerShell, WPF, XAML |
-| 🛡️ [**GuardianBot**](https://github.com/DEV-Skyz/GuardianBot) | AI-powered Discord security & moderation bot | Node.js, Python, AI |
-| 🔍 [**NetVigil**](https://github.com/DEV-Skyz/NetVigil) | Real-time network traffic monitoring & analysis | Python, Scapy |
-| 💣 [**CTF-Toolkit**](https://github.com/DEV-Skyz/CTF-Toolkit) | Curated collection of pentesting & CTF scripts | Bash, Python |
 
 </div>
 
@@ -111,10 +113,9 @@ class Developer:
 ## <span style="color: #cb404d;">🔥 Current Focus</span>
 
 - 🔐 **Security Research** - Exploring new attack vectors and defense mechanisms
-- 🛠️ **Windows Tools Development** - Creating powerful system management utilities
-- 🤖 **Discord Bot Development** - Building advanced security-focused bots
+- 🛠️ **Windows Tools Development** - Creating powerful system management utilities (EXM)
 - 📚 **Continuous Learning** - Expanding knowledge in cybersecurity and development
-- 🎯 **CTF Competitions** - Participating in Capture The Flag challenges
+- 🎯 **System Optimization** - Building tools to enhance Windows performance and security
 
 ---
 
