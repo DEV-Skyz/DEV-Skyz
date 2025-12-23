@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=CB404D&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Tim+%F0%9F%91%8B;IT+Specialist+%7C+Security+Developer;Building+secure+solutions+%F0%9F%94%92" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=CB404D&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Anyxx+DEV+%F0%9F%91%8B;IT+Specialist+%7C+Security+Developer;Building+secure+solutions+%F0%9F%94%92" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
 
-### <span style="color: #cb404d;">⚡ Security-Focused Developer | Ethical Hacker | Tool Creator</span>
+### <span style="color: #cb404d;">⚡ Anyxx DEV | Security-Focused Developer | Ethical Hacker | Tool Creator</span>
 
 *Transforming vulnerabilities into secure solutions*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=cb404d)](https://github.com/DEV-Skyz)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/users/911588324462981130](https://discord.gg/8TtTn2gTd6))
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8TtTn2gTd6)
 
 </div>
 
@@ -21,17 +21,31 @@
 
 <div align="center">
 
-### <span style="color: #cb404d;">┌─────────────────────────────────────────┐</span>
-### <span style="color: #cb404d;">│</span> <span style="color: #6e6e6e;">Tim (DEV-Skyz / Anyxx DEV)</span> <span style="color: #cb404d;">│</span>
-### <span style="color: #cb404d;">│</span> <span style="color: #6e6e6e;">IT Specialist Apprentice</span> <span style="color: #cb404d;">│</span>
-### <span style="color: #cb404d;">│</span> <span style="color: #6e6e6e;">Security-Focused Developer</span> <span style="color: #cb404d;">│</span>
-### <span style="color: #cb404d;">└─────────────────────────────────────────┘</span>
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║   █████╗ ███╗   ██╗██╗   ██╗██╗  ██╗██╗  ██╗        ║
+║  ██╔══██╗████╗  ██║╚██╗ ██╔╝╚██╗██╔╝██║  ██║        ║
+║  ███████║██╔██╗ ██║ ╚████╔╝  ╚███╔╝ ███████║        ║
+║  ██╔══██║██║╚██╗██║  ╚██╔╝   ██╔██╗ ╚════██║        ║
+║  ██║  ██║██║ ╚████║   ██║    ██╔╝ ██╗     ██║        ║
+║  ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═╝  ╚═╝     ╚═╝        ║
+║                                                       ║
+║   ██████╗ ███████╗██╗   ██╗                          ║
+║   ██╔══██╗██╔════╝██║   ██║                          ║
+║   ██║  ██║█████╗  ██║   ██║                          ║
+║   ██║  ██║██╔══╝  ╚██╗ ██╔╝                          ║
+║   ██████╔╝███████╗╚████╔╝                           ║
+║   ╚═════╝ ╚══════╝ ╚═══╝                            ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1500&color=CB404D&center=true&vCenter=true&width=800&lines=Exploring+vulnerabilities+%F0%9F%94%92;Building+secure+solutions+%E2%9C%85;Learning+every+day+%F0%9F%93%9A;Code+with+purpose+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=CB404D&center=true&vCenter=true&width=900&lines=IT+Specialist+Apprentice+%7C+Security+Developer;Building+secure+Windows+tools+%F0%9F%94%92;Exploring+vulnerabilities+%E2%9C%85;Learning+every+day+%F0%9F%93%9A;Code+with+purpose+%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
@@ -39,36 +53,38 @@
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
-<span style="color: #cb404d;">**🔐**</span>  
-<span style="color: #6e6e6e;">Security Research</span>  
-<span style="color: #6e6e6e;">Ethical Hacking</span>
+### <span style="color: #cb404d;">🎯 What I Do</span>
 
-</td>
-<td align="center">
-
-<span style="color: #cb404d;">**🛠️**</span>  
-<span style="color: #6e6e6e;">Tool Development</span>  
-<span style="color: #6e6e6e;">EXM Creator</span>
+<span style="color: #6e6e6e;">
+🔐 Security Research & Ethical Hacking  
+🛠️ Windows Tool Development (EXM)  
+💻 System Optimization & Management  
+📚 Continuous Learning & Growth  
+</span>
 
 </td>
-<td align="center">
+<td align="center" width="50%">
 
-<span style="color: #cb404d;">**📚**</span>  
-<span style="color: #6e6e6e;">Always Learning</span>  
-<span style="color: #6e6e6e;">Growing Skills</span>
+### <span style="color: #cb404d;">📍 Where I Am</span>
 
-</td>
-<td align="center">
-
-<span style="color: #cb404d;">**📍**</span>  
-<span style="color: #6e6e6e;">Germany</span>  
-<span style="color: #6e6e6e;">Remote Available</span>
+<span style="color: #6e6e6e;">
+🇩🇪 **Location:** Germany  
+🌍 **Available:** Remote Work  
+💼 **Role:** IT Specialist Apprentice  
+🎯 **Focus:** Security & System Tools  
+</span>
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<div align="center">
+
+<span style="color: #6e6e6e;">*"Transforming vulnerabilities into secure solutions through innovative tools and dedicated research."*</span>
 
 </div>
 
@@ -166,7 +182,7 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/users/911588324462981130](https://discord.gg/8TtTn2gTd6))
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8TtTn2gTd6)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=cb404d)](https://github.com/DEV-Skyz)
 
 </div>
