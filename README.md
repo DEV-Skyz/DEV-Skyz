@@ -21,25 +21,17 @@
 
 <div align="center">
 
-```
-    ╔═══════════════════════════════════════════════╗
-    ║                                               ║
-    ║   ██████╗ ███████╗██╗   ██╗                   ║
-    ║   ██╔══██╗██╔════╝██║   ██║                   ║
-    ║   ██║  ██║█████╗  ██║   ██║                   ║
-    ║   ██║  ██║██╔══╝  ╚██╗ ██╔╝                   ║
-    ║   ██████╔╝███████╗ ╚████╔╝                    ║
-    ║   ╚═════╝ ╚══════╝  ╚═══╝                     ║
-    ║                                               ║
-    ║   ███████╗██╗  ██╗██╗   ██╗███████╗          ║
-    ║   ██╔════╝╚██╗██╔╝╚██╗ ██╔╝██╔════╝          ║
-    ║   ███████╗ ╚███╔╝  ╚████╔╝ ███████╗          ║
-    ║   ╚════██║ ██╔██╗   ╚██╔╝  ╚════██║          ║
-    ║   ███████║██╔╝ ██╗   ██║   ███████║          ║
-    ║   ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝          ║
-    ║                                               ║
-    ╚═══════════════════════════════════════════════╝
-```
+### <span style="color: #cb404d;">┌─────────────────────────────────────────┐</span>
+### <span style="color: #cb404d;">│</span> <span style="color: #6e6e6e;">Tim (DEV-Skyz / Anyxx DEV)</span> <span style="color: #cb404d;">│</span>
+### <span style="color: #cb404d;">│</span> <span style="color: #6e6e6e;">IT Specialist Apprentice</span> <span style="color: #cb404d;">│</span>
+### <span style="color: #cb404d;">│</span> <span style="color: #6e6e6e;">Security-Focused Developer</span> <span style="color: #cb404d;">│</span>
+### <span style="color: #cb404d;">└─────────────────────────────────────────┘</span>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1500&color=CB404D&center=true&vCenter=true&width=800&lines=Exploring+vulnerabilities+%F0%9F%94%92;Building+secure+solutions+%E2%9C%85;Learning+every+day+%F0%9F%93%9A;Code+with+purpose+%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
@@ -47,48 +39,36 @@
 
 <table>
 <tr>
-<td width="50%">
+<td align="center">
 
-### <span style="color: #cb404d;">👨‍💻 Who I Am</span>
-
-<span style="color: #6e6e6e;">
-• **Name:** Tim  
-• **Username:** DEV-Skyz / Anyxx DEV  
-• **Role:** IT Specialist Apprentice  
-• **Focus:** Security & System Tools  
-• **Location:** 🇩🇪 Germany  
-</span>
+<span style="color: #cb404d;">**🔐**</span>  
+<span style="color: #6e6e6e;">Security Research</span>  
+<span style="color: #6e6e6e;">Ethical Hacking</span>
 
 </td>
-<td width="50%">
+<td align="center">
 
-### <span style="color: #cb404d;">🎯 What I Do</span>
+<span style="color: #cb404d;">**🛠️**</span>  
+<span style="color: #6e6e6e;">Tool Development</span>  
+<span style="color: #6e6e6e;">EXM Creator</span>
 
-<span style="color: #6e6e6e;">
-• 🔐 Security Research  
-• 🛠️ Tool Development  
-• 💻 System Optimization  
-• 📚 Continuous Learning  
-• 🎯 Building EXM  
-</span>
+</td>
+<td align="center">
+
+<span style="color: #cb404d;">**📚**</span>  
+<span style="color: #6e6e6e;">Always Learning</span>  
+<span style="color: #6e6e6e;">Growing Skills</span>
+
+</td>
+<td align="center">
+
+<span style="color: #cb404d;">**📍**</span>  
+<span style="color: #6e6e6e;">Germany</span>  
+<span style="color: #6e6e6e;">Remote Available</span>
 
 </td>
 </tr>
 </table>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=2000&color=CB404D&center=true&vCenter=true&width=800&lines=Exploring+vulnerabilities+%F0%9F%94%92;Building+secure+solutions+%E2%9C%85;Learning+every+day+%F0%9F%93%9A;Code+with+purpose+%F0%9F%92%BB" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-<span style="color: #6e6e6e;">💡 **Passionate about creating tools that make systems more secure and efficient**</span>  
-<span style="color: #6e6e6e;">🔒 **Currently working on Windows security tools and system management utilities**</span>  
-<span style="color: #6e6e6e;">🚀 **Always learning new security techniques and development practices**</span>
 
 </div>
 
